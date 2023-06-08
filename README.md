@@ -32,6 +32,7 @@
 
 - Item_MRP has the most impact on pushing the target higher while the Outlet_Type_Grocery Store being equal to 0 actually increases our target. Item_Visibility also has an impact on pushing the target higher. 
 
+![Screenshot 2023-06-08 181933](https://github.com/BrazilianKing/Project-1-Revisited/assets/123523010/c9c4fd77-ee02-437a-b3fa-638f69a38e1d)
 
 - When the Outlet_Type_Grocery Store is equal to 0 it increases the target and Outlet_Type_Supermarket Type 3 decreases our target when equal to 0. 
 - So this also tells me if Supermarket Type3 were to equal 1 it would in fact increase our target.
