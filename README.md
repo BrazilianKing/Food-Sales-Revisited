@@ -36,3 +36,7 @@
 
 - When the Outlet_Type_Grocery Store is equal to 0 it increases the target and Outlet_Type_Supermarket Type 3 decreases our target when equal to 0. 
 - So this also tells me if Supermarket Type3 were to equal 1 it would in fact increase our target.
+
+![Screenshot 2023-06-08 183206](https://github.com/BrazilianKing/Project-1-Revisited/assets/123523010/8b925552-d376-4501-bcb2-36c316a6e241)
+
+- This graph is showing sample order similarities and confirms previous statements on the graphs prior to this one.
