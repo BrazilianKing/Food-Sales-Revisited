@@ -28,8 +28,6 @@
 - Outlet_Type_Supermarket_Type3
 
 
-
-
-
+![red-blue bar](https://github.com/BrazilianKing/Project-1-Revisited/assets/123523010/bd0669e2-21a7-4305-b80e-5780dafb1e65)
 
 - Item_MRP has the most impact on pushing the target higher while the Outlet_Type_Grocery Store being equal to 0 actually increases our target. Item_Visibility also has an impact on pushing the target higher. 
