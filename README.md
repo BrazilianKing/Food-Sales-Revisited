@@ -21,3 +21,8 @@
 - Both SHAP bar graph and Feature importance graph have the same top 5 features but "Item_visibility" and "Outlet_Type_Supermarket_Type3" are in difference positions
 
 ![SHAP Dot](https://github.com/BrazilianKing/Project-1-Revisited/assets/123523010/650305c7-1444-49d7-af3e-793bfa3fd1fb)
+
+## 3 Most Important Features
+- Item MRP
+- Outlet_Type_Grocery Store
+- Outlet_Type_Supermarket_Type3
