@@ -26,3 +26,10 @@
 - Item MRP
 - Outlet_Type_Grocery Store
 - Outlet_Type_Supermarket_Type3
+
+
+
+
+
+
+- Item_MRP has the most impact on pushing the target higher while the Outlet_Type_Grocery Store being equal to 0 actually increases our target. Item_Visibility also has an impact on pushing the target higher. 
